@@ -1,0 +1,29 @@
+{
+  "about": {
+    "title": "About us",
+    "paragraph1": "CyberCafe emerged as many things do today - a group of friends wanting to talk about what they like, back in 2013, in Brasília. We felt a great lack of online content about our interests, even with the advent of YouTube and social media, so we gradually decided to create what we always wanted to see.",
+    "paragraph2": "Today, more than ten years since the beginning of our activities, we are bigger than ever, with an amazing team and with the same goal. In 2019 we expanded our activities to a professional level, and in 2024 we will have great news. We count on you in this bright future that we will build together.",
+    "paragraph3": "If you are meeting us for the first time at this Brasil Game Show, it's a great pleasure! Follow us on our social networks so you don't miss our work and check out what we will do at the fair!!"
+  },
+  "heading": {
+    "presentMembers": "Members present at BGS2023",
+    "otherMembers": "Other members"
+  },
+  "roles": {
+    "founder": "Founder, Development Leader, and Editor-in-Chief, specialist in the Japanese Industry and Nintendo",
+    "coFounderDeveloper": "Co-Founder, Operations Director, Developer and Writer, Anime specialist",
+    "coFounderWriter": "Co-Founder and Writer, Chinese Culture specialist",
+    "contentCreator": "Content Creator and Writer, Sega and Xbox specialist",
+    "editor": "Head of Editorial, PC Gaming specialist",
+    "coFounderCollaborator": "Co-Founder and Collaborator",
+    "contentMediaChief": "Head of Content and Media",
+    "writerJRPGs": "Writer, JRPGs specialist",
+    "writerActionGames": "Writer and Podcaster, Action Games and PlayStation specialist",
+    "speedrunner": "Speedrunner, Writer and Podcaster, Souls specialist",
+    "writerShonen": "Writer and Podcaster, Shonen specialist",
+    "instagrammer": "Writer and Instagrammer",
+    "writerCozyGames": "Writer and Cozy Games specialist",
+    "writerMusou": "Writer and Musou specialist",
+    "writerLegacyGames": "Writer and Legacy Games specialist"
+  }
+}

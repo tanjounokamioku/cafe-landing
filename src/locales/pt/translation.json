@@ -1,0 +1,29 @@
+{
+  "about": {
+    "title": "Sobre nós",
+    "paragraph1": "O CyberCafe surgiu como muitas coisas surgem hoje - um grupo de amigos querendo falar sobre o que gostam, lá em 2013, em Brasília. Sentíamos grande falta de conteúdos online sobre nossos interesses, mesmo com o advento do YouTube e das redes sociais, então decidimos aos poucos criar o que sempre quisemos ver. Com o tempo, fomos definindo quem somos e mudamos de nome várias vezes - Geek It All, Café com Geek, Café com Geeks e hoje somos o CyberCafe, mas nossa filosofia nunca deixou de existir: produzir conteúdo tão sincero quanto autêntico, tão autêntico quanto imparcial, e tão imparcial quanto dedicado.",
+    "paragraph2": "Hoje, mais de dez anos desde o início de nossas atividades, estamos maiores que nunca, com uma equipe incrível e com o mesmo objetivo. Em 2019 expandimos nossas atividades para nível profissional, e em 2024 teremos grandes novidades. Contamos com vocês neste futuro brilhante que vamos construir juntos.",
+    "paragraph3": "Caso estejam nos conhecendo pela primeira vez nesta Brasil Game Show, é um grande prazer! Sigam-nos em nossas redes sociais para não perder nosso trabalho e conferir o que faremos na feira!!"
+  },
+  "heading": {
+    "presentMembers": "Membros presentes na BGS2023",
+    "otherMembers": "Demais membros"
+  },
+  "roles": {
+    "founder": "Fundador, Líder de Desenvolvimento e Editor-Chefe, especialista na Indústria Japonesa e Nintendo",
+    "coFounderDeveloper": "Co-Fundadora, Diretora de Operações, Desenvolvedora e Redatora, especialista em Anime",
+    "coFounderWriter": "Co-Fundador e Redator, especialista em Cultura Chinesa",
+    "contentCreator": "Criador de Conteúdo e Redator, especialista em Sega e Xbox",
+    "editor": "Chefe de Redação e especialista em PC Gaming",
+    "coFounderCollaborator": "Co-Fundador e Colaborador",
+    "contentMediaChief": "Chefe de Conteúdo e Mídia",
+    "writerJRPGs": "Redator, especialista em JRPGs",
+    "writerActionGames": "Redator e Podcaster, especialista em Jogos de Ação e PlayStation",
+    "speedrunner": "Speedrunner, Redator e Podcaster, especialista em Souls",
+    "writerShonen": "Redator e Podcaster, especialista em Shounen",
+    "instagrammer": "Redatora e Instagrammer",
+    "writerCozyGames": "Redatora e especialista em Cozy Games",
+    "writerMusou": "Redator e especialista em Musou",
+    "writerLegacyGames": "Redator e especialista em Jogos Legado"
+  }
+}
