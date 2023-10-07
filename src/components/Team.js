@@ -59,7 +59,7 @@ function Team() {
           <p>{member.role}</p>
         </div>
       ))}
-      <h2 className="col-span-full text-2xl font-bold mb-4 mt-8 text-center">        {t('heading.presentMembers')}</h2>
+      <h2 className="col-span-full text-2xl font-bold mb-4 mt-8 text-center">        {t('heading.otherMembers')}</h2>
       {teamMembers2.map(member => (
         <div key={member.name} className="rounded-2xl p-4 text-center bg-opacity-20 bg-white backdrop-blur-md">
           <a href={member.socialLink} target="_blank" rel="noopener noreferrer">
