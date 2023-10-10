@@ -30,7 +30,7 @@ function Team() {
   const teamMembers2 = [
     { name: 'Rafael "Raxyz" Martins', role: t('roles.editor'), image: raxyz, socialLink: 'https://twitter.com/raxyz0' },
     { name: 'João "JooJ" Victor', role: t('roles.coFounderCollaborator'), image: jooj, socialLink: 'https://twitter.com/JooJorges' },
-    { name: 'Stephanie "Lacrimowo" Vallim', role: t('roles.contentMediaChief'), image: ste, socialLink: 'https://twitter.com/lacrimowozart' },
+    { name: 'Stephanie "Lacrimowozart" Vallim', role: t('roles.contentMediaChief'), image: ste, socialLink: 'https://twitter.com/lacrimowozart' },
     { name: 'Matheus "Thorgue" Rocha', role: t('roles.writerJRPGs'), image: thorgue, socialLink: 'https://twitter.com/_Thorgue' },
     { name: 'Juan "Fuan" Carlos', role: t('roles.writerActionGames'), image: juan, socialLink: 'https://twitter.com/Hiryuzera' },
     { name: 'Rubens "Nyk" Pimenta', role: t('roles.speedrunner'), image: rubens, socialLink: 'https://twitter.com/Nyk_Style' },
