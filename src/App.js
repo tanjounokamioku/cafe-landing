@@ -32,6 +32,8 @@ function App() {
         <SocialLinks />
         <Team />
       </div>
+
+      <Analytics />
     </div>
   );
 }
